@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Happy Birthday My Bujji ❤️</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  background: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 15px #ff4da6;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #ff4da6;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #ff4da6;
+  font-size: 22px;
+}
+
+.letter {
+  background: #111;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 20px 0;
+  text-align: left;
+  line-height: 1.6;
+  box-shadow: 0 0 10px #ff4da6;
+}
+
+audio {
+  width: 100%;
+  margin-top: 20px;
+  outline: none;
+  border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Happy Birthday My Bujji ❤️</h1>
+
+<!-- Background Music -->
+<audio controls autoplay loop>
+  <source src="/assets/audio.mp3" type="audio/mpeg">
+</audio>
+
+<!-- IMAGES -->
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/caf8f6d0e52903c896b1631514ad9a2df9b5e7ad/dhanya.1.jpeg" alt="Dhanya 1">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.2.jpeg" alt="Dhanya 2">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.3.jpeg" alt="Dhanya 3">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.4.jpeg" alt="Dhanya 4">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.5.jpeg" alt="Dhanya 5">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.6.jpeg" alt="Dhanya 6">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.7.jpeg" alt="Dhanya 7">
+<img src="https://raw.githubusercontent.com/karthiiiik14-jpg/my-future/main/d.8.jpeg" alt="Dhanya 8">
+
+<!-- LETTER 1 -->
+<div class="letter">
+<h2>Letter 1 ❤️</h2>
+<p>
+Hi Bujii,<br><br>
+Happy Birthday. I have dreamt many years ago this would happen.  
+When I saw you in university for the first time, I felt you are my future wife.  
+It started on May 21st and it continues. I love you so much.  
+I know you got hurt. Sorry… still I love you so much.<br><br>
+
+I don’t know how to tell everything.  
+I know how many papers I wasted trying to explain my feelings.  
+I filled you in every inch of my heart.  
+I think about you always.  
+I wait for your call.  
+I pray to God every day to give you to me.<br><br>
+
+Don’t laugh at my grammar mistakes.  
+When I see you, my heart is full of joy.  
+When you finish your lunch, I get disappointed because I want more time with you.  
+I want to tell you: eat slowly… speak with me some more time.  
+I am dying here to talk with you, but I stop myself.
+</p>
+</div>
+
+<!-- LETTER 2 -->
+<div class="letter">
+<h2>Letter 2 ❤️</h2>
+<p>
+Please give me a chance, Bujji.  
+Don’t think I am begging.  
+I love you so much.  
+I will never disappoint you.  
+I will be loyal to you.  
+I will always speak the truth.  
+You are my choice in everything.<br><br>
+
+We will build a life together.  
+We will grow together.  
+I want to be with you every time.  
+I want to see you.  
+I want to listen to you.<br><br>
+
+I know you don’t have feelings for me now.  
+I pray every day to God:  
+“Please give some feelings for me to Dhanya.”  
+Then she will love me like I love her.<br><br>
+
+I love you, Bujji.  
+Please give me a chance, my heroine.  
+Happy Birthday, Bujji.<br><br>
+
+Don’t think I am mature while writing this letter.  
+My inner child wrote this.<br><br>
+
+Karthik
+</p>
+</div>
+
+<h1>❤️ Will You Be Mine, Bujji? ❤️</h1>
+
+</div>
+
+</body>
+</html>
